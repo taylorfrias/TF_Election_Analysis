@@ -19,13 +19,17 @@ A Colorado Board of Elections employee has given the task to compelete an electi
 
   Total Votes 369,711
 
-  Charles Casper Stockham:23.0% (85,213)
-  Diana DeGette:73.8% (272,892)
-  Raymon Anthony Doane:3.1% (11,606)
+  -Charles Casper Stockham:23.0% (85,213)
+  
+  -Diana DeGette:73.8% (272,892)
+  
+  -Raymon Anthony Doane:3.1% (11,606)
 
-  Winner: Diana DeGette
-  winning Vote Count: 272,892
-  Winning Percentage: 73.81%
+  -Winner: Diana DeGette
+  
+  -winning Vote Count: 272,892
+  
+  -Winning Percentage: 73.81%
 
 
 ## Challenge Overview
