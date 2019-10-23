@@ -30,7 +30,7 @@ A Colorado Board of Elections employee has given the task to compelete an electi
   Arapahoe:6.7% (24,801)
 
 
-  Largest County Turnout: 
+  Largest County Turnout: Denver
 
 
   Charles Casper Stockham:23.0% (85,213)
